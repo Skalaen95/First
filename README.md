@@ -1,2 +1,3 @@
 # First
-First try to create repository
+Hi everybody!
+I'm Artem From Russia.
